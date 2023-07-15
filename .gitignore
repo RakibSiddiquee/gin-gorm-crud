@@ -1,3 +1,5 @@
 note.txt
 .env
 .idea
+gin-gorm-crud
+go.sum
